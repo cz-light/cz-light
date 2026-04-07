@@ -35,7 +35,7 @@ CS grad building projects across software engineering, data, and AI/ML — curre
 
 ## Previous projects
 
-You can find my earlier CS coursework and projects in my [main portfolio repo](https://github.com/cz-light).
+You can find my earlier CS coursework and projects in my [main portfolio repo](https://github.com/cz-light/Portfolio).
 
 ---
 
