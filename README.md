@@ -14,6 +14,6 @@
 
 ## Where to find me
 
-🌐 [cz-light.github.io](https://cz-light.github.io)  
+plz dont
 
 ---
